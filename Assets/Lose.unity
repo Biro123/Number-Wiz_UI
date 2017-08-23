@@ -386,8 +386,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000012398, y: 82}
-  m_SizeDelta: {x: 547.3, y: 61.7}
+  m_AnchoredPosition: {x: -0.000012398, y: 62.7}
+  m_SizeDelta: {x: 547.3, y: 100.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1727007970
 MonoBehaviour:
@@ -421,7 +421,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Loser!!
+  m_Text: 'Loser!!
+
+    You are no match for me.'
 --- !u!222 &1727007971
 CanvasRenderer:
   m_ObjectHideFlags: 0
